@@ -17,6 +17,8 @@ Find out more about this important phenomenon.
 
 # Simuilations
 We simulate the way they are transported
-discarded changes hopefully
+
+#Methodloloyg
+We compare out measurements......(Smith et al 2002)
 
 
