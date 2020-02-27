@@ -3,6 +3,7 @@ Ageing of biomass burning aerosols over West Africa
 
 #Author
 Patricia Barnby
+John Smith
 
 # Introduction
 We present aircraft measurements of BBOA over West Africa.
