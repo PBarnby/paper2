@@ -1,8 +1,10 @@
 # Title
-We present aircraft measurements of biomass burning aerosols over West Africa
+Aircraft measurements and Simulations of biomass burning aerosols over West Africa
+
 
 #Author
 Patricia Barnby
+John Smith
 
 # Introduction
 We present aircraft measurements of BBOA over West Africa.
@@ -11,3 +13,8 @@ Jones et al (1998) conducted several studies in this region, but continental sca
 
 # Motivation
 Find out more about this important phenomenon.
+
+
+# Simuilations
+We simulate the way they are transported
+
