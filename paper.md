@@ -24,3 +24,6 @@ Change to paper
 
 #Results
 The Simulations indicate that coagulation is the dominant growth mechanism for these particles.
+
+#Figures
+All images are listed here
