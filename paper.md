@@ -3,8 +3,8 @@ Aircraft measurements and Simulations of biomass burning aerosols over West Afri
 
 
 #Author
-Patricia Barnby
 John Smith
+Patricia Barnby
 
 # Introduction
 We present aircraft measurements of BBOA over West Africa.
