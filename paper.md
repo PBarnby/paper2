@@ -1,5 +1,5 @@
 # Title
-Ageing of biomass burning aerosols over West Africa
+We present aircraft measurements of biomass burning aerosols over West Africa
 
 #Author
 Patricia Barnby
